@@ -1,0 +1,14 @@
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Ortalama Hesaplama\bin\Debug\net9.0\Ortalama Hesaplama.exe
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Ortalama Hesaplama\bin\Debug\net9.0\Ortalama Hesaplama.deps.json
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Ortalama Hesaplama\bin\Debug\net9.0\Ortalama Hesaplama.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Ortalama Hesaplama\bin\Debug\net9.0\Ortalama Hesaplama.dll
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Ortalama Hesaplama\bin\Debug\net9.0\Ortalama Hesaplama.pdb
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Ortalama Hesaplama\obj\Debug\net9.0\Ortalama Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Ortalama Hesaplama\obj\Debug\net9.0\Ortalama Hesaplama.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Ortalama Hesaplama\obj\Debug\net9.0\Ortalama Hesaplama.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Ortalama Hesaplama\obj\Debug\net9.0\Ortalama Hesaplama.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Ortalama Hesaplama\obj\Debug\net9.0\Ortalama Hesaplama.dll
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Ortalama Hesaplama\obj\Debug\net9.0\refint\Ortalama Hesaplama.dll
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Ortalama Hesaplama\obj\Debug\net9.0\Ortalama Hesaplama.pdb
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Ortalama Hesaplama\obj\Debug\net9.0\Ortalama Hesaplama.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Ortalama Hesaplama\obj\Debug\net9.0\ref\Ortalama Hesaplama.dll
